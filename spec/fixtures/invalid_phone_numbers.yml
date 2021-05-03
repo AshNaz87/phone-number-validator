@@ -1,0 +1,19 @@
+---
+:non_strings:
+- []
+- {}
+- false
+:incorrect_format:
+- 'fake telephone number'
+- 'yet another string'
+- '079 me'
+- '4447777777777'
+- '-447777777777'
+:long_numbers:
+- '+4479123456789'
+- '797979797979'
+- '07333333333333'
+:short_numbers:
+- '0777777'
+- '+44744444444'
+- '756789012'
